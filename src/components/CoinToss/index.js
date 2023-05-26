@@ -19,7 +19,7 @@ class CoinToss extends Component {
     return (
       <img
         src="https://assets.ccbp.in/frontend/react-js/tails-img.png"
-        alt="tails"
+        alt="toss result"
         className="image"
       />
     )
